@@ -7,4 +7,4 @@ I am a technical writer based out of Harrisburg, Pennsylvania.
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
-// replace the above "YOUR-DARKMODE-IMAGE" and "YOUR-LIGHTMODE-IMAGE" with urls
+[comment] :: <> (replace the above "YOUR-DARKMODE-IMAGE" and "YOUR-LIGHTMODE-IMAGE" with urls)
